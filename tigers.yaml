@@ -1,8 +1,11 @@
 team: Tigers
 
-manager: John
+manager: Donald
+
+coacj: Grace
 
 members:
 - Linda
 - William
 - David
+- George
