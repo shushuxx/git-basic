@@ -1,25 +1,14 @@
 team: Leopards
 
-<<<<<<< HEAD
-manager: Dooli
-
-coach: Dooli
-=======
 manager: Lupi
 
 coach: Nicholas
->>>>>>> c7c8e596d86fea8ead3fef0d7c22c577ea363f82
 
 members:
 - Linda
 - William
 - David
 - Olivia
-<<<<<<< HEAD
-- Shu
-- Evie
-=======
 - Evie
 - Dongho
 - Shuwang
->>>>>>> c7c8e596d86fea8ead3fef0d7c22c577ea363f82
